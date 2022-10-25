@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿş–î
+]
+java:S1659	"HDeclare "temperature" and all following declarations on a separate line.(×ÿà4
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÕĞà‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àª€˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«Éø“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆË†·ÿÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'javax.security.sasl.SaslClient'.(¹Òó

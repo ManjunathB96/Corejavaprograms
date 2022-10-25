@@ -1,9 +1,0 @@
-
-x
-java:S1192"bDefine a constant instead of duplicating this literal "Is Greater Than other Two Numbers" 4 times.(óÿ–º
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€°¡’øÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(şÃ­À
-N	java:S106"9Replace this use of System.out or System.err by a logger.(óÿ–º
-S	java:S106"9Replace this use of System.out or System.err by a logger.(œÄáÈúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ôõ†ıøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(œÄáÈúÿÿÿÿ

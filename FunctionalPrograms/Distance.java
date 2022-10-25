@@ -4,21 +4,20 @@ import java.util.Scanner;
 
 public class Distance {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int x1, x2, y1, y2;
+        long x,y;
+        double dist;
 
-        System.out.println("Enter the value of x1 :");
-        x1 = sc.nextInt();
-        System.out.println("Enter the value of x2 :");
-        x2 = sc.nextInt();
+        x = Long.parseLong(args[0]);
+        y = Long.parseLong(args[1]);
 
-        System.out.println("Enter the value of y1 :");
-        y1 = sc.nextInt();
-        System.out.println("Enter the value of y2 :");
-        y2 = sc.nextInt();
 
-        double dist = Math.sqrt((Math.pow(x2 - x1, 2)) + (Math.pow(y2 - y1, 2)));
+        dist = Math.sqrt(x*x + y*y);
 
         System.out.println(dist);
     }
 }
+
+
+   /* Write a program Distance.java that takes two integer command-line arguments x
+        and y and prints the Euclidean distance from the point (x, y) to the origin (0, 0). The
+        formulae to calculate distance = sqrt(x*x + y*y). Use Math.power function */
