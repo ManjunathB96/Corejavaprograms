@@ -1,0 +1,7 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËËö“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö¸çêúÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â¨›îýÿÿÿÿ8¯Ø¥ƒÁ0
