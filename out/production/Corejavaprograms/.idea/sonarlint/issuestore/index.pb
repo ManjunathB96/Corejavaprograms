@@ -1,14 +1,6 @@
 
 X
 (FunctionalPrograms/ThreeIntAdd2Zero.java,8\f\8f262304954587b9b6ccc2c88f2aa6069661d8ac
-S
-#logical_programs/PerfectNumber.java,b\f\bf580a1747bb2816374a8d174d7b6cb96f7675f2
-N
-logical_programs/PrimeNum.java,c\c\cc4797dae9310cb33022e82accfa84ee95071a32
-P
- logical_programs/ReverseNum.java,c\f\cfe3b947b076f4fe665e25ca1feb791598fc36cb
-O
-logical_programs/CouponNum.java,8\d\8d5234b048caf29e10d3c12ff074d07a02ac8156
 Q
 !FunctionalPrograms/Quadratic.java,4\6\46588edaf482d2e4d625b8454995e96c8916f81f
 P
